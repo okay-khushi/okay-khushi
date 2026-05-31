@@ -1,7 +1,5 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=33FF33&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%E2%9A%A1;Building+things+that+matter+%F0%9F%9B%A0%EF%B8%8F;React+%7C+Node.js+%7C+Next.js+%7C+PostgreSQL;Open+to+collabs+%26+opportunities+%F0%9F%94%8D;Let%27s+build+something+cool+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+  <img src="banner.svg" alt="Khushii Bhatia - Full Stack Developer" width="100%"/>
 </div>
 
 ---
