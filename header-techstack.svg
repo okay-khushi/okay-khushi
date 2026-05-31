@@ -1,0 +1,11 @@
+<svg width="900" viewBox="0 0 900 36" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
+    .mono { font-family: 'Share Tech Mono', 'Courier New', monospace; }
+  </style>
+  <rect width="900" height="36" fill="#080c08" rx="4"/>
+  <text x="20" y="24" class="mono" font-size="15">
+    <tspan fill="#33ff33">visitor@github:~$</tspan>
+    <tspan fill="#aaffaa"> ls tech-stack/</tspan>
+  </text>
+</svg>
