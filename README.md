@@ -4,13 +4,9 @@
 
 ---
 
-```
-┌────────────────────────────────────────────────────────────┐
-│  ⚡ Full-Stack Developer  │  building things that matter   │
-│  📍 India  •  open to collabs & opportunities              │
-│  ✉  khushibha05@gmail.com                                  │
-└────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/okay-khushi/okay-khushi/main/about.svg" alt="About Khushii" width="100%"/>
+</div>
 
 ---
 
