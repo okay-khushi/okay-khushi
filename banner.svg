@@ -1,0 +1,128 @@
+<svg width="900" viewBox="0 0 900 220" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Khushii Bhatia GitHub profile banner</title>
+  <desc>Retro terminal style banner — Khushii Bhatia, Full-Stack Developer</desc>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;family=VT323&amp;display=swap');
+    .mono { font-family: 'Share Tech Mono', 'Courier New', monospace; }
+    .vt { font-family: 'VT323', monospace; }
+
+    .blink { animation: blink 1.1s step-start infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+
+    .slide-in { animation: slideIn 0.9s cubic-bezier(.22,1,.36,1) both; }
+    @keyframes slideIn { from { opacity:0; transform: translateX(-18px); } to { opacity:1; transform:none; } }
+
+    .fade1 { animation: fd 0.7s ease both; animation-delay: 0.3s; }
+    .fade2 { animation: fd 0.7s ease both; animation-delay: 0.6s; }
+    .fade3 { animation: fd 0.7s ease both; animation-delay: 0.9s; }
+    .fade4 { animation: fd 0.7s ease both; animation-delay: 1.2s; }
+    .fade5 { animation: fd 0.7s ease both; animation-delay: 1.5s; }
+    .fade6 { animation: fd 0.7s ease both; animation-delay: 1.8s; }
+    @keyframes fd { from { opacity:0; } to { opacity:1; } }
+
+    .bar1 { animation: grow1 1.2s ease both; animation-delay: 1.4s; }
+    .bar2 { animation: grow2 1.2s ease both; animation-delay: 1.6s; }
+    .bar3 { animation: grow3 1.2s ease both; animation-delay: 1.8s; }
+    .bar4 { animation: grow4 1.2s ease both; animation-delay: 2.0s; }
+    @keyframes grow1 { from { width: 0; } to { width: 140px; } }
+    @keyframes grow2 { from { width: 0; } to { width: 124px; } }
+    @keyframes grow3 { from { width: 0; } to { width: 112px; } }
+    @keyframes grow4 { from { width: 0; } to { width: 96px; } }
+
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity:0.5; } 50% { opacity:1; } }
+
+    .flicker { animation: flicker 6s linear infinite; }
+    @keyframes flicker { 0%,97%,100% { opacity:1; } 98% { opacity:0.6; } 99% { opacity:0.9; } }
+  </style>
+
+  <rect width="900" height="220" fill="#080c08" rx="8"/>
+  <rect x="1" y="1" width="898" height="218" fill="none" stroke="#1aff1a" stroke-width="1.5" rx="8" opacity="0.7"/>
+  <rect x="8" y="8" width="884" height="204" fill="none" stroke="#0d4d0d" stroke-width="0.5" rx="6"/>
+
+  <g class="flicker">
+    <line x1="0" y1="28" x2="900" y2="28" stroke="#1a661a" stroke-width="0.5"/>
+    <circle cx="22" cy="18" r="5" fill="#ff5f56"/>
+    <circle cx="40" cy="18" r="5" fill="#ffbd2e"/>
+    <circle cx="58" cy="18" r="5" fill="#27c93f"/>
+    <text x="80" y="23" class="mono" fill="#336633" font-size="11">~/okay-khushi/README.md</text>
+    <text x="760" y="23" class="mono" fill="#1a4d1a" font-size="11">bash — 80x24</text>
+  </g>
+
+  <g class="slide-in">
+    <text x="40" y="72" class="vt" fill="#00ff88" font-size="48" letter-spacing="3" opacity="0.95">KHUSHII BHATIA</text>
+  </g>
+
+  <g class="fade1">
+    <text x="40" y="93" class="mono" fill="#335533" font-size="11">================================================================================</text>
+  </g>
+
+  <g class="fade2">
+    <text x="40" y="114" class="mono" fill="#33ff33" font-size="13">visitor@github:~$<tspan fill="#aaffaa"> ./about.sh</tspan></text>
+  </g>
+
+  <g class="fade3">
+    <text x="40" y="133" class="mono" fill="#ffff55" font-size="12">&#x26A1; Full-Stack Developer</text>
+    <text x="236" y="133" class="mono" fill="#336633" font-size="12">  •</text>
+    <text x="252" y="133" class="mono" fill="#88ccaa" font-size="12">  building things that matter  &#x1F4CD; India</text>
+  </g>
+
+  <g class="fade4">
+    <text x="40" y="151" class="mono" fill="#44ffee" font-size="12">   React  •  Node.js  •  Next.js  •  PostgreSQL  •  TypeScript  •  Docker  •  GraphQL</text>
+  </g>
+
+  <g class="fade5">
+    <text x="40" y="169" class="mono" fill="#33ff33" font-size="13">visitor@github:~$<tspan fill="#aaffaa"> cat skills.log</tspan></text>
+  </g>
+
+  <g class="fade6">
+    <text x="40" y="186" class="mono" fill="#557755" font-size="11">JS</text>
+    <rect x="60" y="178" width="144" height="7" rx="1" fill="#0d2a0d"/>
+    <rect x="60" y="178" height="7" rx="1" fill="#33ff33" class="bar1"/>
+
+    <text x="216" y="186" class="mono" fill="#557755" font-size="11">React</text>
+    <rect x="252" y="178" width="128" height="7" rx="1" fill="#0d2a0d"/>
+    <rect x="252" y="178" height="7" rx="1" fill="#00ff88" class="bar2"/>
+
+    <text x="392" y="186" class="mono" fill="#557755" font-size="11">Node</text>
+    <rect x="424" y="178" width="116" height="7" rx="1" fill="#0d2a0d"/>
+    <rect x="424" y="178" height="7" rx="1" fill="#33ff33" class="bar3"/>
+
+    <text x="552" y="186" class="mono" fill="#557755" font-size="11">SQL</text>
+    <rect x="576" y="178" width="100" height="7" rx="1" fill="#0d2a0d"/>
+    <rect x="576" y="178" height="7" rx="1" fill="#00ff88" class="bar4"/>
+  </g>
+
+  <g class="fade6">
+    <text x="40" y="207" class="mono" fill="#33ff33" font-size="13">visitor@github:~$</text>
+    <text x="183" y="207" class="mono blink" fill="#00ff88" font-size="13">&#x2588;</text>
+    <text x="800" y="207" class="mono pulse" fill="#1a5a1a" font-size="11">okay-khushi</text>
+  </g>
+
+  <g opacity="0.025">
+    <line x1="0" y1="36" x2="900" y2="36" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="44" x2="900" y2="44" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="52" x2="900" y2="52" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="60" x2="900" y2="60" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="68" x2="900" y2="68" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="76" x2="900" y2="76" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="84" x2="900" y2="84" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="92" x2="900" y2="92" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="100" x2="900" y2="100" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="108" x2="900" y2="108" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="116" x2="900" y2="116" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="124" x2="900" y2="124" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="132" x2="900" y2="132" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="140" x2="900" y2="140" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="148" x2="900" y2="148" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="156" x2="900" y2="156" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="164" x2="900" y2="164" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="172" x2="900" y2="172" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="180" x2="900" y2="180" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="188" x2="900" y2="188" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="196" x2="900" y2="196" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="204" x2="900" y2="204" stroke="#00ff00" stroke-width="1.5"/>
+    <line x1="0" y1="212" x2="900" y2="212" stroke="#00ff00" stroke-width="1.5"/>
+  </g>
+</svg>
