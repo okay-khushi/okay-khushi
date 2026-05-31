@@ -1,16 +1,18 @@
 <div align="center">
-  <img src="banner.svg" alt="Khushii Bhatia - Full Stack Developer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/okay-khushi/okay-khushi/main/banner.svg" alt="Khushii Bhatia" width="100%"/>
 </div>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/okay-khushi/okay-khushi/main/about.svg" alt="About Khushii" width="100%"/>
+  <img src="https://raw.githubusercontent.com/okay-khushi/okay-khushi/main/about.svg" alt="About" width="100%"/>
 </div>
 
----
+<br/>
 
-### `visitor@github:~$ ls tech-stack/`
+<div align="center">
+  <img src="https://raw.githubusercontent.com/okay-khushi/okay-khushi/main/header-techstack.svg" alt="ls tech-stack/" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -30,20 +32,22 @@
 
 </div>
 
----
-
-### `visitor@github:~$ ./fetch-stats.sh`
+<br/>
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=okay-khushi&show_icons=true&theme=chartreuse-dark&bg_color=080c08&border_color=22cc22&icon_color=00ff88&title_color=aaffaa&text_color=66cc66&hide_border=false" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okay-khushi&layout=compact&theme=chartreuse-dark&bg_color=080c08&border_color=22cc22&title_color=aaffaa&text_color=66cc66" />
-
+  <img src="https://raw.githubusercontent.com/okay-khushi/okay-khushi/main/header-stats.svg" alt="fetch-stats" width="100%"/>
 </div>
 
----
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=okay-khushi&show_icons=true&theme=chartreuse-dark&bg_color=080c08&border_color=22cc22&icon_color=00ff88&title_color=aaffaa&text_color=66cc66&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okay-khushi&layout=compact&theme=chartreuse-dark&bg_color=080c08&border_color=22cc22&title_color=aaffaa&text_color=66cc66" />
+</div>
 
-### `visitor@github:~$ cat streak.log`
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/okay-khushi/okay-khushi/main/header-streak.svg" alt="streak" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -51,23 +55,25 @@
 
 </div>
 
----
-
-### `visitor@github:~$ ./snake-contributions.sh`
+<br/>
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/okay-khushi/okay-khushi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/okay-khushi/okay-khushi/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/okay-khushi/okay-khushi/output/github-contribution-grid-snake.svg" />
-</picture>
-
+  <img src="https://raw.githubusercontent.com/okay-khushi/okay-khushi/main/header-snake.svg" alt="snake" width="100%"/>
 </div>
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/okay-khushi/okay-khushi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/okay-khushi/okay-khushi/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/okay-khushi/okay-khushi/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
-### `visitor@github:~$ cat connect.txt`
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/okay-khushi/okay-khushi/main/header-connect.svg" alt="connect" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -77,15 +83,13 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/okay-khushi/okay-khushi/main/footer.svg" alt="footer" width="100%"/>
+</div>
 
-```
-visitor@github:~$ echo "thanks for visiting — let's build something cool"
-// "thanks for visiting — let's build something cool"
-visitor@github:~$ █
-```
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=okay-khushi&color=33ff33&style=flat-square&label=PROFILE+VIEWS)
 
